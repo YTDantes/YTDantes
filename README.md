@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b&logoColor=6833bd)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=17cde5)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=#FF6C37)
 ![more)...](https://img.shields.io/badge/-more...-090909?style=for-the-badge)
 
 
