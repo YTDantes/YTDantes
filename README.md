@@ -1,4 +1,4 @@
-[![Header](https://github.com/YTDantes/YTDantes/blob/main/Assetes/i.png)](https://t.me/s_dantes)
+[![Header](https://github.com/YTDantes/YTDantes/blob/main/Assetes/1626300038_51-kartinkin-com-p-fon-dlya-shapki-profilya-krasivo-62.jpg)](https://t.me/s_dantes)
 
 ## I am a beginner Python and C++ developer, as well as studying web and desktop application testing
 
