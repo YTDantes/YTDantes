@@ -14,3 +14,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/s_dantes)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTDantes&theme=radical)
+
+
