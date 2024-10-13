@@ -1,6 +1,6 @@
 [![Header](https://github.com/YTDantes/YTDantes/blob/main/Assetes/i.png)](https://t.me/s_dantes)
 
-About Me
+## I am a beginner Python and C++ developer, as well as studying web and desktop application testing
 
 Languages and Tools
 
